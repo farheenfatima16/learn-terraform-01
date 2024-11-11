@@ -1,15 +1,16 @@
 # Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: MPL-2.0
 
-terraform {
 
+terraform {
+/*
   cloud {
-    organization = "organization-name"
+    organization = "my-org-16"
 
     workspaces {
       name = "learn-terraform"
     }
-  }
+  } */
 
   required_providers {
     aws = {
