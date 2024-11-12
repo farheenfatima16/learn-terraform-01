@@ -1,1 +1,1 @@
-instance_name="Sunmicrosystems"
+instance_name="SunMicroSystems"
